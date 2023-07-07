@@ -1,0 +1,2 @@
+../Src/led.c:11:6:pin_5_on	4	static
+../Src/led.c:22:6:pin_5_off	4	static

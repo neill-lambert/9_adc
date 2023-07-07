@@ -1,0 +1,5 @@
+uart.c:41:6:usart1_rxtx_en	0	static
+uart.c:91:6:usart1_tx_en	0	static
+uart.c:124:6:uart1_read	0	static
+uart.c:138:6:uart1_write	0	static
+uart.c:35:5:__io_putchar	8	static
